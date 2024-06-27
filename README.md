@@ -41,7 +41,7 @@ cd WebCamCap
 ```
 
 ```bash
-cd WebCam_Capture
+cd Webcam_Capture
 ```
 Run the code cam.py
 ```bash
