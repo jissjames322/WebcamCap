@@ -13,9 +13,15 @@
 
 
 ## :star2: About the Project
+This Python script captures images directly from your computer's camera using OpenCV. It opens the camera, displays the live feed, and allows you to capture a snapshot with a simple press of the spacebar. The captured image is then saved to your local directory as captured_image.jpg.
+
 
 ### :dart: Features
 - Take quick snaps
+- Camera Access: Utilizes OpenCV to access and control the camera.
+- Live Feed Display: Continuously shows the camera feed in a window.
+- Image Capture: Allows the user to capture a snapshot by pressing the spacebar.
+- File Saving: Saves the captured image in the current working directory.
 
 
 ## :toolbox: Getting Started
