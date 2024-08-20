@@ -1,6 +1,6 @@
 <div align='center'>
 
-![alt text]()
+![alt text](https://github.com/jissjames322/WebcamCap/blob/416e02b62073ebe1a4e16eb6c739e6f0cfd67ea9/Webcam_Capture/logo2.png)
 <p>Simple Python Script to Open Webcam & Capture Photo</p>
 
 
