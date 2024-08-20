@@ -1,8 +1,8 @@
 <div align='center'>
 
+![alt text]()
 <p>Simple Python Script to Open Webcam & Capture Photo</p>
 
-<h4> <span> · </span> <a href="https://github.com/jissjames322/WebcamCap/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/jissjames322/WebcamCap/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/jissjames322/WebcamCap/issues"> Request Feature </a> </h4>
 
 
 </div>
